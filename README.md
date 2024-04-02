@@ -2,7 +2,7 @@
 
 I'm Baishali, a frontend enthusiast with a passion for crafting beautiful UIs that deliver exceptional user experiences. With 3.5 years of experience in software engineering, I've honed my skills in React and Redux, but my true joy comes from exploring the intricacies of frontend development.
 
-#### My Favourite Projects:
+### My Favourite Projects:
 
 *   **The Cake Bar & Co.**: [Check it out!](https://cake-shop-2022.web.app/)
 *   **Mobibattle**: [Let's play!](https://mobibattle.com)
