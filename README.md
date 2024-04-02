@@ -4,7 +4,7 @@ I'm Baishali, a frontend enthusiast with a passion for crafting beautiful UIs th
 
 #### My Favourite Projects:
 
-*   **The Cake Shop**: [Check it out!](https://cake-shop-2022.web.app/)
+*   **The Cake Bar & Co.**: [Check it out!](https://cake-shop-2022.web.app/)
 *   **Mobibattle**: [Let's play!](https://mobibattle.com)
 
 <h3 align="left">Connect with me:</h3>
