@@ -6,6 +6,7 @@ I'm Baishali, a frontend enthusiast with a passion for crafting beautiful UIs th
 
 *   **The Cake Bar & Co.**: [Check it out!](https://cake-shop-2022.web.app/)
 *   **Mobibattle**: [Let's play!](https://mobibattle.com)
+*   **Superhero Hunter**: [Find your superhero sidekick!](https://baishalid.github.io/SuperheroHunter/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
